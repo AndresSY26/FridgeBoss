@@ -1,0 +1,6 @@
+{
+  "name": "FridgeBoss",
+  "description": "Gestiona tu nevera, reduce el desperdicio de comida y genera recetas inteligentes con IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

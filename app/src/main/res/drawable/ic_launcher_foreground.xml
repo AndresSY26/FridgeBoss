@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Refrigerator outline -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M34,22 h40 c3,0 5,2 5,5 v54 c0,3 -2,5 -5,5 h-40 c-3,0 -5,-2 -5,-5 v-54 c0,-3 2,-5 5,-5 z" />
+    <!-- Door separator -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M29,48 h50 v2 h-50 z" />
+    <!-- Refrigerator hinges handles -->
+    <path
+        android:fillColor="#065F46"
+        android:pathData="M38,30 h3 v12 h-3 z M38,54 h3 v18 h-3 z" />
+    <!-- Golden eco star reflecting smart engine -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,12 l2,3 l3,1 l-2,2 l1,3 l-3,-2 l-3,2 l1,-3 l-2,-2 l3,-1 z" />
+</vector>
